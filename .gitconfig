@@ -1,7 +1,7 @@
 [user]
         email = chris@coder.com
         name = Chris Decelles
-        signingkey = 9C6C3EAA78773BBB
+        signingkey = 1C86C9FEB1E09A44
 [url "git@github.com:"]
 	insteadOf = https://github.com/
 [url "git@gh.coder-internal.com:"]
